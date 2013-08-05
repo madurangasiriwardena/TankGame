@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="33" height="20" tilewidth="32" tileheight="32" backgroundcolor="#ffffff">
+ <tileset firstgid="1" name="mapBasic" tilewidth="32" tileheight="32">
+  <image source="mapBasic.png" width="640" height="480"/>
+ </tileset>
+ <tileset firstgid="301" name="Bb8ab" tilewidth="32" tileheight="32">
+  <image source="Bb8ab.png" width="2000" height="1131"/>
+ </tileset>
+ <tileset firstgid="2471" name="302cnk6" tilewidth="32" tileheight="32">
+  <image source="302cnk6.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="2472" name="stone" tilewidth="32" tileheight="32">
+  <image source="12674934943IA529.jpg" width="400" height="266"/>
+ </tileset>
+ <tileset firstgid="2568" name="stone" tilewidth="32" tileheight="32">
+  <image source="stone.jpg" width="256" height="256"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="33" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC1vOycCwnIrYmIt0TE370d2wnR03pocb8NmP7g5auIEY+5HdMeqGUTeMumHUDaNuGHXDSHbDYKi7B0sbhhQMAIePGC1QCgAA
+  </data>
+ </layer>
+</map>
